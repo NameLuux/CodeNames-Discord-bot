@@ -1,0 +1,6 @@
+{
+    "token": "YOUR_DISCORD_TOKEN",
+    "serverId": "YOUR_SERVER_ID",
+    "mainChannelId": "YOUR_MAIN_CHANNEL_ID",
+    "GAME_URL": "YOUR_GAME_URL"
+  }
